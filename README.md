@@ -1,7 +1,7 @@
-# asd
+# ReademeGenerator
 
 ## Description
-asd
+This is a node application, that uses inquirer to ask users information about their project, and generates a README.md file containing the information in a readable and nice format.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,11 +10,11 @@ asd
 - [License](#license)
 
 ## Installation
-asd
+First, "git clone" the repo, then run "npm i" at the root, then run "npm start" OR "node index.js"
 ## Usage
-asd
+After running "npm start" OR "node index.js" You will be prompted with questions, answer the questions until you get a message, saying a README.md has been generated!
 ## Credits
-asd asd
+Tyler Farrior
 ## License
-BSD 3-Clause License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
