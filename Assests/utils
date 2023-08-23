@@ -68,9 +68,9 @@ ${data.tests}
 
 If you have any questions, please feel free to reach out:
 
-GitHub: [${data.github}](https://github.com/${data.github})
+GitHub: [${data.github}](https://github.com/TylerFarrior91})
 
-Email: ${data.email}
+Email: ${tylerfarrior@gmail.com}
 `;
 }
 
