@@ -1,7 +1,7 @@
-# ReademeGenerator
+# ReadmeGenerator
 
 ## Description
-This is a node application, that uses inquirer to ask users information about their project, and generates a README.md file containing the information in a readable and nice format.
+This is a node application, that uses inquirer to ask users information about their project, and generates a README.md file containing the information in a readaable and nice format.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,9 +10,9 @@ This is a node application, that uses inquirer to ask users information about th
 - [License](#license)
 
 ## Installation
-First, "git clone" the repo, then run "npm i" at the root, then run "npm start" OR "node index.js"
+First, "git clone" the repo, then run 
 ## Usage
-After running "npm start" OR "node index.js" You will be prompted with questions, answer the questions until you get a message, saying a README.md has been generated!
+after running "npm start" OR "node index.js" you will be prompted with questions, answer the questions until you get a message, saying a README.md has  been generated!
 ## Credits
 Tyler Farrior
 ## License
