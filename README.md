@@ -3,6 +3,8 @@
 ## Description
 This is a node application, that uses inquirer to ask users information about their project, and generates a README.md file containing the information in a readaable and nice format.
 
+[Demo Video](https://github.com/TylerFarrior91/ReadmeGenerator/assets/135553644/da313737-69bd-4046-9f44-fc38cbbf227c)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,4 +19,5 @@ after running "npm start" OR "node index.js" you will be prompted with questions
 Tyler Farrior
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
